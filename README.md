@@ -7,7 +7,11 @@ Nov. 11 2021
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Use **Python** to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user choose the data and filter for a dataset to analyze. The three datasets are,
+- Chicago
+- New York City
+- Washington DC
+
 
 ### Files used
 Include the files used
