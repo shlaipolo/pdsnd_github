@@ -4,7 +4,7 @@
 Nov. 11 2021
 
 ### Project Title
-Explore US Bikeshare Data
+*Explore US Bikeshare Data*
 
 ![This is an image](https://cdn.onlinewebfonts.com/svg/img_538285.png)
 
