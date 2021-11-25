@@ -6,6 +6,8 @@ Nov. 11 2021
 ### Project Title
 Explore US Bikeshare Data
 
+![This is an image](https://cdn.onlinewebfonts.com/svg/img_538285.png)
+
 ### Description
 Use **Python** to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user choose the data and filter for a dataset to analyze. The three datasets are,
 - Chicago
